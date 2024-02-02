@@ -4,7 +4,7 @@ State of the Union Text Data Mining
 
 ### Running these notebooks
 
-I use Docker and the jupyter/datascience-notebook for this.
+I use Docker and the quay.io/jupyter/datascience-notebook for this.
 First open a terminal window and run the install_packages.sh script
 which will install the necessary conda and R packages.
 
